@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Subiect1E</string>
+    <string name="send_package">Send Package</string>
+    <string name="package_list">Package list</string>
+    <string name="backup_packages">Backup Packages</string>
+    <string name="update_packages">Update Packages</string>
+    <string name="package_sending_rate">Package sending rate</string>
+    <string name="package_id">Package id:</string>
+    <string name="id">id</string>
+    <string name="latitude">Latitude:</string>
+    <string name="latitude1">Latitude</string>
+    <string name="longitude">Longitude:</string>
+    <string name="longitude1">Longitude</string>
+    <string name="package_type">Package type:</string>
+    <string name="position">position</string>
+    <string name="state">state</string>
+    <string name="timestamp">Timestamp:</string>
+    <string name="timestamp1">Timestamp</string>
+    <string name="add_package">Add package</string>
+    <string name="cancel">Cancel</string>
+    <string name="id1">Id</string>
+    <string name="state1">State</string>
+    <array name="spinneroptions">
+        <item>
+            All packages
+        </item>
+        <item>
+            State packages
+        </item>
+        <item>
+            Position packages
+        </item>
+    </array>
+</resources>
